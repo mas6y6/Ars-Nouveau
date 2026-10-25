@@ -1,9 +1,7 @@
 # Changelog
 
-Improves repository and lectern caching performance (Qther)
+Adds blocks to Sable weight and volume tags
 
-Fixes dupe with interact and buckets (Qther)
+Fixes glyph recipe documentation items not spinning smoothly
 
-Fixes tomes having their discount applied multiple times (Qther)
-
-Fixes search bar in spellbook capturing inputs too quickly on linux (Qther)
+Adds additional safeguard for mobs pathfinding near sable sublevels
